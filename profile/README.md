@@ -1,39 +1,169 @@
-# AI-Native Wallet Security Trust Alliance (WSTA)
-A selective, industry-led alliance shaping the trust infrastructure of the AI-powered digital asset ecosystem.
-Defining a forward-looking wallet security standard aligned with evolving global regulation.
+<!-- WSTA Organization README -->
+<!-- Location: .github/profile/README.md -->
 
-# AI 原生钱包安全信任联盟（WSTA）
-由行业核心力量发起的精选共建联盟，致力于构建 AI 时代数字资产的信任基础设施。
-定义面向未来、与全球监管演进相匹配的钱包安全标准。
+<div align="center">
 
-1 行业影响力（Industry Influence） 
-成员将作为 Wallet Security Standard 的共同制定者：
-• 参与行业钱包安全标准制定 
-• 在标准文档中列为 Founding Member / Core Member 
-• 提升机构在 数字资产安全领域的行业影响力 
-________________________________________ 
-2 行业信任背书（Trust & Credibility） 
-联盟未来目标： 
-• 引入 独立审计机构 
-• 引入 学术机构 
-• 建立 Wallet Security Trust Mark 
-成员将可以： • 使用 WSTA Trust Mark • 向机构客户以及监管证明钱包安全能力 
-________________________________________ 
-3 提前获取标准（Early Access） 联盟成员将： 
-• 提前参与标准讨论 
-• 提前获得 Wallet Security Standard draft 
-• 提前准备安全体系 避免未来被动合规。 
-________________________________________ 
-4 行业安全情报共享（Security Intelligence） 
-联盟计划建立： 
-• 钱包安全案例分享 
-• 攻击模式分析 
-• 关键安全实践 
-成员可以： 
-• 获取行业安全经验 
-• 了解攻击趋势 
-________________________________________ 
-5 行业合作网络（Network） 
-联盟成员将： 
-• 定期参加 security roundtable 
-• 与交易所 / Custody / Audit机构交流 • 建立合作关系
+# Wallet Security Trust Alliance
+
+**The Global Standard for Institutional Wallet Security**
+
+[![Members](https://img.shields.io/badge/Members-22_Confirmed-1a3a5c?style=flat-square&logo=people&logoColor=white)](https://wsta.world/#members)
+[![Phase](https://img.shields.io/badge/Phase-1_Open-C41E3A?style=flat-square)](https://wsta.world/#roadmap)
+[![WSS Domains](https://img.shields.io/badge/WSS_Domains-15-gold?style=flat-square&color=b8960c)](https://wsta.world/#standards)
+[![Website](https://img.shields.io/badge/Website-wsta.world-1a3a5c?style=flat-square&logo=google-chrome&logoColor=white)](https://wsta.world)
+[![License](https://img.shields.io/badge/License-Proprietary-lightgrey?style=flat-square)](./LICENSE)
+
+*An open, industry-led alliance co-creating the Wallet Security Standard (WSS) —  
+built by practitioners, designed for regulators.*
+
+</div>
+
+---
+
+## About WSTA
+
+The digital asset industry operates some of the most complex security environments in the world — yet no unified, practitioner-validated security standard exists for institutional wallet operations.
+
+**WSTA** was founded to close this gap. We bring together leading exchanges, custodians, wallet infrastructure providers, and independent security firms to co-create the **Wallet Security Standard (WSS)** — a purpose-built framework addressing modern wallet architectures including MPC/TSS, smart contract wallets, AI-assisted monitoring, and cross-chain operations.
+
+> WSTA's work is **complementary** to existing frameworks such as ISO/IEC 27001:2022, SOC 2, and NIST CSF 2.0. We address a specific operational gap: practitioner-validated security guidance for institutional crypto wallet infrastructure.
+
+---
+
+## Alliance Status
+
+| | |
+|:--|:--|
+| 📍 **Current Phase** | Phase 1 — Co-Creation Open |
+| 🏛️ **Confirmed Members** | 22 institutions |
+| 📋 **WSS Control Domains** | 15 |
+| 🎯 **WSS v1.0 Target** | December 2026 |
+| 🌏 **Regulatory Alignment** | MiCA Art.70 · Dubai VARA · MAS TRM · FATF R.15 |
+
+---
+
+## Membership Tiers
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔵 Tier 1 — Core Co-Creation
+**Exchanges · Custodians · Wallet Operators**
+
+Primary authors of the WSS. Members hold voting rights on all standard provisions and own 1–2 WSS control domains.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔷 Tier 2 — Ecosystem
+**MPC Providers · HSM Infrastructure · Cloud Security**
+
+Technical contributors providing cryptographic depth, implementation feasibility, and infrastructure expertise.
+
+</td>
+<td width="33%" valign="top">
+
+### ⬜ Tier 3 — Observer / Advisory
+**Audit Firms · Academic Institutions · Associations**
+
+Independent reviewers providing professional expertise, academic rigour, and regulatory perspective.
+
+</td>
+</tr>
+</table>
+
+> ⚠️ Membership does not constitute any form of security certification, compliance endorsement, audit outcome, or Trust Mark award.
+
+---
+
+## WSS — 15 Control Domains
+
+| Code | Domain |
+|:-----|:-------|
+| A.5.1 | Key Generation & Storage |
+| A.5.2 | Wallet Architecture & Access Control |
+| A.5.3 | MPC / TSS / Multi-Signature Management |
+| A.5.4 | Hot, Warm & Cold Wallet Segregation |
+| A.5.5 | Transaction Authorisation & Approval Workflows |
+| A.5.6 | Key Rotation & Lifecycle Management |
+| A.5.7 | Business Continuity & Disaster Recovery |
+| A.5.8 | Security Monitoring & Incident Response |
+| A.5.9 | Third-Party & Vendor Security |
+| A.5.10 | Audit, Logging & Compliance Evidence |
+| A.5.11 | Smart Contract Wallet Security |
+| A.5.12 | AI-Assisted Threat Detection |
+| A.5.13 | Supply Chain Security |
+| A.5.14 | Insider Threat Programme |
+| A.5.15 | Proof of Reserves & Asset Attestation |
+
+---
+
+## Governance Documents
+
+| Document ID | Title | Status |
+|:------------|:------|:------:|
+| WSTA-ADM-001 | Co-Creation Member Admission Procedure | `Under Legal Review` |
+| WSTA-MBR-001 | Alliance Membership Agreement & Terms | `Under Legal Review` |
+| WSTA-GOV-001 | Alliance Governance Charter | `Under Legal Review` |
+| WSS-STD-001 | Wallet Security Standard v1.0 | `In Co-Creation` |
+
+---
+
+## Roadmap
+
+```
+Q3–Q4 2025   ████████  Initiation
+              Alliance intent formed · WSS initial draft · Governance framework
+
+Q1 2026      ████████  Build Phase
+              22 founding members confirmed · Legal framework finalised
+
+Q2 2026      ████░░░░  Official Launch  ◄ Current
+              NDA/MOU execution · Website live · Press release
+
+Q3 2026      ░░░░░░░░  Co-Creation Phase 1
+              Monthly working groups · Module assignments · Domain drafts
+
+Q4 2026      ░░░░░░░░  Finalisation & Publication
+              Full standard integration · WSS v1.0 published
+
+2027         ░░░░░░░░  Protocol Adoption & Phase 2
+              WAA audit programme · Regulatory recognition (VARA · SFC · MAS)
+```
+
+---
+
+## Repositories
+
+| Repository | Description |
+|:-----------|:------------|
+| [`wss-standard`](https://github.com/Wallet-Security-Trust-Alliance/wss-standard) | Wallet Security Standard working documents |
+| [`wsta-website`](https://github.com/Wallet-Security-Trust-Alliance/wsta-website) | Official website source (wsta.world) |
+| [`governance`](https://github.com/Wallet-Security-Trust-Alliance/governance) | Alliance governance documents & procedures |
+| [`.github`](https://github.com/Wallet-Security-Trust-Alliance/.github) | Organization profile & community health files |
+
+---
+
+## Contact
+
+| Purpose | |
+|:--------|:--|
+| 🏛️ Membership Applications | membership@wsta.world |
+| ⚖️ Governance & Legal | governance@wsta.world |
+| 📩 General Enquiries | contact@wsta.world |
+| 🌐 Website | [wsta.world](https://wsta.world) |
+
+---
+
+<div align="center">
+
+**Legal Notice**
+
+*WSTA Phase 1 membership does not constitute, and shall not be represented as, any form of security certification, compliance endorsement, audit outcome, or Trust Mark award. The Wallet Security Standard is an industry co-creation initiative. All members acknowledge this in writing before admission is confirmed. Logo usage by member institutions is governed by WSTA-MBR-001 and requires execution of the Alliance Membership Agreement prior to any display.*
+
+---
+
+© 2026 Wallet Security Trust Alliance · All rights reserved
+
+</div>
