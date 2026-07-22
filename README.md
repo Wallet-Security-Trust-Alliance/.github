@@ -7,7 +7,7 @@
 
 **The Global Standard for Institutional Wallet Security**
 
-[![Members](https://img.shields.io/badge/Members-28_Confirmed-1a3a5c?style=flat-square&logoColor=white)](https://wsta.world/#members)
+[![Members](https://img.shields.io/badge/Members-35_Confirmed-1a3a5c?style=flat-square&logoColor=white)](https://wsta.world/#members)
 [![Phase](https://img.shields.io/badge/Phase-1_Open-C41E3A?style=flat-square)](https://wsta.world/#roadmap)
 [![WSS Domains](https://img.shields.io/badge/WSS_Domains-12-b8960c?style=flat-square)](https://wsta.world/#standards)
 [![Website](https://img.shields.io/badge/Website-wsta.world-1a3a5c?style=flat-square&logo=googlechrome&logoColor=white)](https://wsta.world)
@@ -34,7 +34,7 @@ Institutional digital asset operations demand rigorous security — yet no unifi
 | | |
 |:--|:--|
 | **Current Phase** | Phase 1 — Co-Creation Open |
-| **Confirmed Members** | 28 institutions |
+| **Confirmed Members** | 35 institutions |
 | **WSS Control Domains** | 12 |
 | **WSS v1.0 Target** | December 2026 |
 | **Regulatory Alignment** | MiCA Art. 70 · Dubai VARA · MAS TRM · FATF R.15 |
