@@ -7,9 +7,9 @@
 
 **The Global Standard for Institutional Wallet Security**
 
-[![Members](https://img.shields.io/badge/Members-22_Confirmed-1a3a5c?style=flat-square&logoColor=white)](https://wsta.world/#members)
+[![Members](https://img.shields.io/badge/Members-28_Confirmed-1a3a5c?style=flat-square&logoColor=white)](https://wsta.world/#members)
 [![Phase](https://img.shields.io/badge/Phase-1_Open-C41E3A?style=flat-square)](https://wsta.world/#roadmap)
-[![WSS Domains](https://img.shields.io/badge/WSS_Domains-15-b8960c?style=flat-square)](https://wsta.world/#standards)
+[![WSS Domains](https://img.shields.io/badge/WSS_Domains-12-b8960c?style=flat-square)](https://wsta.world/#standards)
 [![Website](https://img.shields.io/badge/Website-wsta.world-1a3a5c?style=flat-square&logo=googlechrome&logoColor=white)](https://wsta.world)
 
 *An open, industry-led alliance co-creating the Wallet Security Standard (WSS) —  
@@ -34,8 +34,8 @@ Institutional digital asset operations demand rigorous security — yet no unifi
 | | |
 |:--|:--|
 | **Current Phase** | Phase 1 — Co-Creation Open |
-| **Confirmed Members** | 22 institutions |
-| **WSS Control Domains** | 15 |
+| **Confirmed Members** | 28 institutions |
+| **WSS Control Domains** | 12 |
 | **WSS v1.0 Target** | December 2026 |
 | **Regulatory Alignment** | MiCA Art. 70 · Dubai VARA · MAS TRM · FATF R.15 |
 
@@ -92,9 +92,6 @@ Independent reviewers providing professional expertise, academic rigour, and reg
 | A.5.10 | Audit, Logging & Compliance Evidence |
 | A.5.11 | Smart Contract Wallet Security |
 | A.5.12 | AI-Assisted Threat Detection |
-| A.5.13 | Supply Chain Security |
-| A.5.14 | Insider Threat Programme |
-| A.5.15 | Proof of Reserves & Asset Attestation |
 
 ---
 
@@ -118,10 +115,11 @@ Q3–Q4 2025   ████████  Initiation
 Q1 2026      ████████  Build Phase
               22 founding members confirmed · Legal framework finalised
 
-Q2 2026      ████░░░░  Official Launch  ◄ Current
+Q2 2026      ████████  Official Launch
+              NDA/MOU execution · Website live · Public announcement
               NDA/MOU execution · Website live · Public announcement
 
-Q3 2026      ░░░░░░░░  Co-Creation Phase 1
+Q3 2026      ████░░░░  Co-Creation Phase 1  ◄ Current
               Monthly working groups · Domain assignments · Module drafting
 
 Q4 2026      ░░░░░░░░  Finalisation & Publication
